@@ -1,0 +1,2 @@
+rootProject.name='AppMapsActivity'
+include ':app'
